@@ -3046,3 +3046,8 @@ OrderID,OrderDate,CustomerID,CustomerName,Country,ProductID,ProductCategory,Prod
 3008,1/4/2027,8,Chandal Duffree,Indonesia,608,Clothing,Wool Gloves,7,14.75,103.25,North
 3009,1/6/2027,9,Kinna Hurnell,Philippines,609,Electronics,Portable SSD,1,149.99,149.99,West
 3010,1/8/2027,10,Valentino Isakowicz,Ukraine,610,Pet Supplies,Pet Travel Carrier,2,85.3,170.6,East
+3011,12/26/2026,401,Marcus Helton,Spain,701,Electronics,Smart Watch,2,199.99,399.98,West
+3012,12/27/2026,402,Alina Petrova,Bulgaria,702,Clothing,Winter Coat,1,249.5,249.5,North
+3013,12/28/2026,403,Jonas Richter,Germany,703,Home Decor,Desk Organizer,4,32.75,131,East
+3014,12/30/2026,404,Natalie Brooks,United States,704,Pet Supplies,Automatic Pet Feeder,1,179.99,179.99,South
+3015,1/2/2027,405,Ahmed Farouk,Egypt,705,Beauty Products,Skincare Gift Set,3,54.6,163.8,West

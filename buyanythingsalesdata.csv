@@ -3036,3 +3036,13 @@ OrderID,OrderDate,CustomerID,CustomerName,Country,ProductID,ProductCategory,Prod
 2023,4/15/2026,23,Cissiee Lloyd,Ghana,523,Electronics,Desk Fan,1,34.99,34.99,East
 2024,5/6/2026,5,Florence Dovidian,Indonesia,524,Home Decor,Storage Basket,3,26.4,79.2,North
 2025,6/20/2026,10,Valentino Isakowicz,Ukraine,525,Pet Supplies,Pet Water Bowl,4,15.75,63,West
+3001,12/26/2026,1,Chip Thrower,Indonesia,601,Electronics,USB Keyboard,4,45.25,181,East
+3002,12/27/2026,2,Aldric Rimington,Venezuela,602,Pet Supplies,Dog Toy Set,6,12.5,75,West
+3003,12/28/2026,3,Lay Grantham,Philippines,603,Clothing,Hooded Sweatshirt,3,58.99,176.97,North
+3004,12/29/2026,4,Freddi Norcliffe,Mali,604,Beauty Products,Hair Serum,2,39.75,79.5,South
+3005,12/30/2026,5,Florence Dovidian,Indonesia,605,Home Decor,Wooden Shelf,1,120.4,120.4,West
+3006,12/31/2026,6,Conrade Shatliff,Vietnam,606,Electronics,Noise Cancelling Headphones,2,210.6,421.2,East
+3007,1/2/2027,7,Audy Gready,China,607,Beauty Products,Facial Cleanser,5,18.99,94.95,South
+3008,1/4/2027,8,Chandal Duffree,Indonesia,608,Clothing,Wool Gloves,7,14.75,103.25,North
+3009,1/6/2027,9,Kinna Hurnell,Philippines,609,Electronics,Portable SSD,1,149.99,149.99,West
+3010,1/8/2027,10,Valentino Isakowicz,Ukraine,610,Pet Supplies,Pet Travel Carrier,2,85.3,170.6,East

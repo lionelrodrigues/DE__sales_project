@@ -3051,3 +3051,13 @@ OrderID,OrderDate,CustomerID,CustomerName,Country,ProductID,ProductCategory,Prod
 3013,12/28/2026,403,Jonas Richter,Germany,703,Home Decor,Desk Organizer,4,32.75,131,East
 3014,12/30/2026,404,Natalie Brooks,United States,704,Pet Supplies,Automatic Pet Feeder,1,179.99,179.99,South
 3015,1/2/2027,405,Ahmed Farouk,Egypt,705,Beauty Products,Skincare Gift Set,3,54.6,163.8,West
+3501,1/10/2027,2001,Liam Prescott,Canada,801,Electronics,Smart Home Hub,2,189.99,379.98,West
+3502,1/12/2027,2002,Sofia Martinez,Mexico,802,Clothing,Winter Boots,1,129.5,129.5,North
+3503,1/15/2027,2003,Daniel Kovac,Croatia,803,Home Decor,Wall Mounted Shelf,3,74.25,222.75,East
+3504,1/18/2027,2004,Ayesha Rahman,Bangladesh,804,Beauty Products,Organic Skin Serum,2,58.6,117.2,South
+3505,1/21/2027,2005,Victor Huang,Taiwan,805,Electronics,Wireless Charging Pad,4,32.99,131.96,West
+3506,1/25/2027,2006,Elena Rossi,Italy,806,Pet Supplies,Automatic Water Dispenser,1,89.75,89.75,North
+3507,1/28/2027,2007,Noah Bernstein,Israel,807,Outdoor Gear,Portable Camping Stove,2,145.3,290.6,East
+3508,2/1/2027,2008,Fatima Alvi,Pakistan,808,Home Decor,Decorative Vase Set,3,41.2,123.6,South
+3509,2/4/2027,2009,Andre Muller,Austria,809,Electronics,Noise Cancelling Earbuds,2,119.95,239.9,West
+3510,2/7/2027,2010,Grace Okafor,Nigeria,810,Beauty Products,Hair Care Gift Box,5,27.4,137,North
